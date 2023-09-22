@@ -6,10 +6,9 @@
 master’s degree in electrical engineering, all accomplished within 6 years (2016-2023, excluding 2022). I pursued my undergraduate studies at [Tehran Polytechnic](https://aut.ac.ir/en) and continued my academic journey at [Tehran University](https://ut.ac.ir/en) for the master's degree.
 
 ## 🚀 &nbsp;Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=nodejs,py,r,matlab,cpp,c,tensorflow,pytorch,vscode,visualstudio,latex&perline=10)](https://skillicons.dev)
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,python,cpp,c,matlab,js,java"/><br>
-    <img src="https://skillicons.dev/icons?i=vuejs,css,html"/><br>
+    <img src="https://skillicons.dev/icons?i=vuejs,css,html,java"/><br>
 </div>
 
 <details>
