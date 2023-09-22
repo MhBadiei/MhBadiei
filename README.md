@@ -7,7 +7,7 @@ master’s degree in electrical engineering, all accomplished within 6 years (20
 
 ## 🚀 &nbsp;Languages and Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,cpp,c,matlab,js,java"/><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,cpp,c,matlab,js"/><br>
     <img src="https://skillicons.dev/icons?i=vuejs,css,html,java"/><br>
 </div>
 
