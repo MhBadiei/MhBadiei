@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&duration=2002&pause=100&color=1C5483&multiline=true&width=500&height=80&lines=Mohammad+Hossein+Badiei;Federated+Learning+%7C+Adversarial+Training;Computer+Vision+%7C+Applied+Physics+and+Mathematics)](https://git.io/typing-svg)
 
 ## 👨🏻‍💻 &nbsp;About Me
-**I concurrently earned two bachelor’s degrees in computer engineering and electrical engineering, alongside a
+I concurrently earned two bachelor’s degrees in computer engineering and electrical engineering, alongside a
 master’s degree in electrical engineering, all accomplished within 6 years (2016-2023, excluding 2022). I pursued my undergraduate studies at [Tehran Polytechnic](https://aut.ac.ir/en) and continued my academic journey at [Tehran University](https://ut.ac.ir/en) for the master's degree.
 
 ## 🚀 &nbsp;Languages and Tools
