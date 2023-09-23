@@ -3,7 +3,7 @@
 
 
 ## &nbsp;About
-I concurrently earned two bachelor’s degrees in computer engineering and electrical engineering, alongside a
+I'm Mohammad Hossein. I concurrently earned two bachelor’s degrees in computer engineering and electrical engineering, alongside a
 master’s degree in electrical engineering, all accomplished within 6 years (2016-2023, excluding 2022). I pursued my undergraduate studies at [Tehran Polytechnic](https://aut.ac.ir/en) and continued my academic journey at [Tehran University](https://ut.ac.ir/en) for the master's degree.
 
 ## &nbsp;Programming Languages
