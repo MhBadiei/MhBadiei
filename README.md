@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&duration=2002&pause=100&color=1C5483&multiline=true&width=500&height=80&lines=Mohammad+Hossein+Badiei;Robust+Learning+%7C+Computer+Vision+%7C+Generative+AI;Federated+Learning+%7C+Robotics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&duration=2002&pause=100&color=1C5483&multiline=true&width=500&height=80&lines=Mohammad+Hossein+Badiei;Robust+Learning+%7C+Computer+Vision+%7C+Generative+AI;Federated+Learning+%7C+Robotics+%7C+Adversarial+Training)](https://git.io/typing-svg)
 
 
 ## &nbsp;About
