@@ -4,7 +4,7 @@
 
 ## &nbsp;About
 I'm Mohammad Hossein. Over six years, I earned three academic degrees simultaneously: two bachelor's degrees (simultaneous dual degrees) in Computer Engineering and Electrical Engineering from Tehran Polytechnic University, and a master's degree (simultaneous dual level) in Electrical Engineering from the University of Tehran, while still pursuing my undergraduate dual degree studies.
-Some of my academic achievements include earning a National Olympiad Gold Medal, ranking 9th in the National Electrical Engineering Olympiad, and securing 1st place in Mathematics and Computer Science at the 6th Young Scientists International Festival in 2022. Additionally, I achieved the top GPA in my BS major at the University of Tehran Polytechnic and earned Simultaneous Dual Degree Honors. Also, I was recognized as a distinguished Young Scientist of Basic Science and Technology by UNESCO in 2023.
+Some of my academic achievements include earning a National Olympiad Gold Medal, ranking 9th in the National Electrical Engineering Olympiad, and securing 1st place in Mathematics and Computer Science at the 6th Young Scientists International Festival in 2022. Also, I was recognized as a distinguished Young Scientist of Basic Science and Technology by UNESCO in 2023. Additionally, I achieved the top GPA in my BS major at the University of Tehran Polytechnic and earned Simultaneous Dual Degree and Dual Level Honors.
 Currently, I focus on algorithm development for deep learning, federated learning, adversarial machine learning, robust learning, trustworthy AI, and computer vision. Additionally, I apply AI to solve problems in applied physics and mathematics.
 
 ## &nbsp;Programming Languages
