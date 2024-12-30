@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&duration=2002&pause=100&color=1C5483&multiline=true&width=500&height=80&lines=Mohammad+Hossein+Badiei;AI+Robustness+%7C+AI+Reasoning+%7C+AI+Safety;Generative+AI+%7C+AI+Alignment+%7C+Physics+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&duration=2002&pause=100&color=1C5483&multiline=true&width=500&height=80&lines=Mohammad+Hossein+Badiei;AI+Robustness+%7C+AI+Reasoning;Generative+AI+%7C+AI+Alignment)](https://git.io/typing-svg)
 
 
 ## &nbsp;About
