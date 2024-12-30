@@ -3,9 +3,7 @@
 
 
 ## &nbsp;About
-I'm Mohammad Hossein. Over six years, I earned three academic degrees simultaneously: two bachelor's degrees (simultaneous dual degrees) in Computer Engineering and Electrical Engineering from Tehran Polytechnic University, and a master's degree (simultaneous dual level) in Electrical Engineering from the University of Tehran, while still pursuing my undergraduate dual degree studies.
-Some of my academic achievements include earning a National Olympiad Gold Medal, ranking 9th in the National Electrical Engineering Olympiad, and securing 1st place in Mathematics and Computer Science at the 6th Young Scientists International Festival in 2022. Also, I was recognized as a distinguished Young Scientist of Basic Science and Technology by UNESCO in 2023. Additionally, I achieved the top GPA in my BS major at the University of Tehran Polytechnic and earned Simultaneous Dual Degree and Dual Level Honors.
-Currently, I focus on algorithm development for deep learning, federated learning, adversarial machine learning, robust learning, trustworthy AI, and computer vision. Additionally, I apply AI to solve problems in applied physics and mathematics.
+I'm Mohammad Hossein. I have completed simultaneous honours tri-degrees (totally 5 degrees, including 2 honours, over 6 years) in Computer Engineering and Electrical Engineering at Tehran University and Tehran polytechnic. In 2021, I won the gold medal in the National Olympiad for Electrical Engineering. Additionally, I was awarded a full scholarship for an AI internship at Tsinghua University, China. I ranked 1st in the 6th Young Scientists Festival in Math and CS, and was recognized as a UNESCO Distinguished Young Scientist last year. During my studies, I was fortunate to work with MB. Menhaj, Hamed Kebriaei, Md. Jalil Piran, Nguyen H. Tran, and others. I am joining the Tencent Research Institute in Shenzhen, China, as an AI Researcher, collaborating with an incredibly talented and dynamic development team on the Hunyuan generative model. My research will focus on advancing generalization and AI alignment.
 
 ## &nbsp;Programming Languages
 <div>
